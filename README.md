@@ -23,7 +23,7 @@
 ### 2. Retail Sales Analysis
 **Tools:** Excel + Python
 **Question:** Which products, regions & months drive sales?
-🔗 [View Project](https://github.com/Giddymomz/retail-sales-analysis)
+🔗 [View Project](https://github.com/Giddymomz/retail_sales_analysis)
 
 ### 3. SQL Business Analysis (Coming Soon)
 
