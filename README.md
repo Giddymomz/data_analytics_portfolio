@@ -20,11 +20,10 @@
 
 🔗 [View Project](https://github.com/Giddymomz/sacco_kisii_financial_perfomance)
 
-### 2. Retail Sales Analysis (Coming Next)
-
+### 2. Retail Sales Analysis
 **Tools:** Excel + Python
-
 **Question:** Which products, regions & months drive sales?
+🔗 [View Project](https://github.com/Giddymomz/retail-sales-analysis)
 
 ### 3. SQL Business Analysis (Coming Soon)
 
