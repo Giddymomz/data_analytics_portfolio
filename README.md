@@ -30,12 +30,17 @@
 **Question:** Customer, orders & revenue insights from relational data.
 🔗 [View Project](https://github.com/Giddymomz/sql_business_analysis)
 
-### 4. Dashboard Storytelling (Coming Soon)
+### 4. Dashboard Storytelling
 
 **Tools:** Power BI
-
 **Question:** Turning analysis into decisions for managers.
+**Key Insights:**
+- Total Revenue: **4M**
+- Total Units Sold: **762**
+- Top Region: **Nairobi**
+- Top Product: **Electronics**
 
+🔗 [View Project](https://github.com/Giddymomz/powerbi_sales_dashboard)
 ## About Me
 
 Data Analyst from Kenya, focused on using data to improve financial decisions for SACCOs, small businesses, and communities.
