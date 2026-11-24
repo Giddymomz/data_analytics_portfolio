@@ -18,7 +18,7 @@
 
 **Result:** Full proposal + questionnaire + sample data + regression code.
 
-🔗 [View Project](github.com/Giddymomz/sacco_kisii_financial_perfomance)
+🔗 [View Project](https://github.com/Giddymomz/sacco_kisii_financial_perfomance)
 
 ### 2. Retail Sales Analysis (Coming Next)
 
