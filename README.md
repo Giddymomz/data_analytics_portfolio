@@ -25,11 +25,10 @@
 **Question:** Which products, regions & months drive sales?
 🔗 [View Project](https://github.com/Giddymomz/retail_sales_analysis)
 
-### 3. SQL Business Analysis (Coming Soon)
-
+### 3. SQL Business Analysis
 **Tools:** SQL
-
 **Question:** Customer, orders & revenue insights from relational data.
+🔗 [View Project](https://github.com/Giddymomz/sql_business_analysis)
 
 ### 4. Dashboard Storytelling (Coming Soon)
 
